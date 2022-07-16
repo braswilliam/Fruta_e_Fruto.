@@ -1,1 +1,3 @@
-# Fruta_e_Fruto.
+# Projeto Fruta e Fruto.
+
+Projeto desenvolvido através de um layout Figma de nome Fruta e Fruto. Para o desenvolvimento desse projeto utilizei de boas práticas de CSS para que a manutenção do código fique mais dinâmica e de fácil entendimento, utilizando a metodologia Atomic Design. Para nomear as classes CSS utilizei da metodologia BEM: Block Element Modifier. No decorrer do desenvolvimento do projeto aprendi que é importante organizar as propriedades do meu CSS em ordem alfabética, facilitando busca e alteração delas.  Esse projeto teve como base de aprendizado o curso da Alura : Arquitetura CSS: Descomplicando os Problemas.
